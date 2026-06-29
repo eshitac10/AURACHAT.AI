@@ -1,6 +1,6 @@
 
 
- https://ai.studio/apps/baa97be3-90c6-474f-8e86-719edd19c06b
+https://aurachat-creative-whiteboard-956124785439.asia-southeast1.run.app/
 
 
 
