@@ -1,0 +1,6 @@
+{
+  "name": "AuraChat & Creative Whiteboard",
+  "description": "An interactive server-side Gemini chatbot, live-collaborative whiteboard, and real-time AI mood sentiment tracker with gamified progress badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
